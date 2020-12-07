@@ -75,7 +75,7 @@ body {
 }
 .output-label{
     margin-top: 2rem;
-    margin-left: 25%;
+    margin-left: 23%;
 }
 .three-output-area{
     width: 45%;
@@ -88,10 +88,9 @@ body {
 .footer{
     background-color: #24305e;
     margin-top: 3rem;
-    margin-bottom: 2rem;
     text-align: center;
     padding-top: 0.5rem;
-    height: 8.5rem;
+    height: 9rem;
     border-bottom-left-radius: 0rem;
     border-bottom-right-radius: 0rem;
 }
@@ -99,6 +98,7 @@ body {
 margin-top: 2rem;
 margin-bottom: 1rem;
 }
+
 *{
     margin: 0px;
     padding: 0px;
